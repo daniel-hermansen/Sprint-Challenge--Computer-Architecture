@@ -15,4 +15,3 @@ except IndexError:
     print("please pass an input .ls8 file")
 except FileNotFoundError:
     print("file not found.")
-
